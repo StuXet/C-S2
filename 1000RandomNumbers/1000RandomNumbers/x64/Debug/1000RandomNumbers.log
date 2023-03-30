@@ -1,0 +1,3 @@
+﻿  1000RandomNumbers.cpp
+D:\GitHub\CPPS2\1000RandomNumbers\1000RandomNumbers\1000RandomNumbers.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  1000RandomNumbers.vcxproj -> D:\GitHub\CPPS2\1000RandomNumbers\x64\Debug\1000RandomNumbers.exe
